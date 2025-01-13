@@ -44,6 +44,16 @@ public class whilenokiso {
 			System.out.println(d);
 			d -= 2;
 		}
+		
+		//本来のwhile文の　初期値　と　条件式
+		//は、ループの回数を意味している
+		int f = 1;
+		while (f<=5) {
+			System.out.println("★");
+			f++;
+		}
+		
+		
 
 	}
 
